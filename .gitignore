@@ -1,13 +1,16 @@
-
 *.csv
 *.png
-.Rproj.user
 *.html
 *.xls
+*.xlsx
+
+# R user files
+.Rproj.user
 .Rhistory
 .Rhistory
 .Rhistory
 
+# Allowed files
 !Experimental Data.csv
 !GCAM_regions.csv
 !GCAM_soilC.csv
@@ -15,4 +18,5 @@
 !basin_to_country_mapping.csv
 !soil_timescales.csv
 !Wei et al Data.csv
-*.xlsx
+!gca_emissions_LUC_net.csv
+!GCA_GCAM_regID.csv

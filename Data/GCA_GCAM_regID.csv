@@ -1,0 +1,243 @@
+country_name,GCAM_region_ID,GCA_country_name
+Afghanistan,27,Afghanistan
+Albania,15,Albania
+Algeria,3,Algeria
+American Samoa,29,
+Andorra,13,Andorra
+Angola,4,Angola
+Anguilla,9,
+Antigua & Barbuda,9,Antigua and Barbuda
+Argentina,31,Argentina
+Armenia,10,Armenia
+Aruba,9,
+Australia,6,Australia
+Austria,13,Austria
+Azerbaijan,10,Azerbaijan
+Bahamas,9,Bahamas
+Bahrain,21,Bahrain
+Bangladesh,27,Bangladesh
+Barbados,9,Barbados
+Belarus,14,Belarus
+Belgium,13,Belgium
+Belize,9,Belize
+Benin,5,Benin
+Bermuda,9,
+Bhutan,27,Bhutan
+Bolivia,26,Bolivia
+Bosnia and Herzegovina,15,Bosnia and Herzegovina
+Botswana,4,Botswana
+Brazil,7,Brazil
+Brunei Darussalam,29,Brunei Darussalam
+Bulgaria,12,Bulgaria
+Burkina Faso,5,Burkina Faso
+Burundi,2,Burundi
+Cambodia,29,Cambodia
+Cameroon,5,Cameroon
+Canada,8,Canada
+Cape Verde,5,Cape Verde
+Cayman Islands,9,
+Central African Republic,5,Central African Republic
+Chad,5,Chad
+Channel Islands,13,
+Chile,26,Chile
+China,11,China
+Christmas Island,29,
+Cocos (Keeling) Islands,29,
+Colombia,32,Colombia
+Comoros,2,Comoros
+Congo,5,Congo
+"Congo, the Democratic Republic of the",5,Democratic Republic of the Congo
+Cook Islands,29,Cook Islands
+Costa Rica,9,Costa Rica
+Cote dIvoire,5,Côte d Ivoire
+Croatia,15,Croatia
+Cuba,9,Cuba
+Curacao,9,
+Cyprus,12,Cyprus
+Czech Republic,12,Czech Republic
+Denmark,13,Denmark
+Djibouti,2,Djibouti
+Dominica,9,Dominica
+Dominican Republic,9,Dominican Republic
+Ecuador,26,Ecuador
+Egypt,3,Egypt
+El Salvador,9,El Salvador
+Equatorial Guinea,5,Equatorial Guinea
+Eritrea,2,Eritrea
+Estonia,12,Estonia
+Ethiopia,2,Ethiopia
+Falkland Islands (Malvinas),13,
+Faroe Islands,13,
+Fiji,29,Fiji
+Finland,13,Finland
+France,13,France
+French Guiana,25,
+French Polynesia,29,
+Gabon,5,Gabon
+Gambia,5,Gambia
+Georgia,10,Georgia
+Germany,13,Germany
+Ghana,5,Ghana
+Gibraltar,13,
+Greece,13,Greece
+Greenland,13,
+Grenada,9,Grenada
+Guadeloupe,9,
+Guam,29,
+Guatemala,9,Guatemala
+Guernsey,13,
+Guinea,5,Guinea
+Guinea-Bissau,5,Guinea Bissau
+Guyana,25,Guyana
+Haiti,9,Haiti
+Honduras,9,Honduras
+Hong Kong,11,
+Hungary,12,Hungary
+Iceland,16,Iceland
+India,17,India
+Indonesia,18,Indonesia
+"Iran, Islamic Republic of",21,Iran
+Iraq,21,Iraq
+Ireland,13,Ireland
+Isle of Man,13,
+Israel,21,Israel
+Italy,13,Italy
+Jamaica,9,Jamaica
+Japan,19,Japan
+Jersey,13,
+Jordan,21,Jordan
+Kazakhstan,10,Kazakhstan
+Kenya,2,Kenya
+Kiribati,29,Kiribati
+"Korea, Democratic Peoples Republic of",29,North Korea
+"Korea, Republic of",28,South Korea
+Kuwait,21,Kuwait
+Kyrgyzstan,10,Kyrgyzstan
+Lao Peoples Democratic Republic,29,Laos
+Latvia,12,Latvia
+Lebanon,21,Lebanon
+Lesotho,4,Lesotho
+Liberia,5,Liberia
+Libyan Arab Jamahiriya,3,Libya
+Liechtenstein,16,Liechtenstein
+Lithuania,12,Lithuania
+Luxembourg,13,Luxembourg
+Macau,11,
+"Macedonia, the former Yugoslav Republic of",15,North Macedonia
+Madagascar,2,Madagascar
+Malawi,4,Malawi
+Malaysia,29,Malaysia
+Maldives,27,Maldives
+Mali,5,Mali
+Malta,12,Malta
+Marshall Islands,29,Marshall Islands
+Martinique,9,
+Mauritania,5,Mauritania
+Mauritius,2,Mauritius
+Mayotte,29,
+Mexico,20,Mexico
+"Micronesia, Federated States of",29,Micronesia  Federated States of 
+"Moldova, Republic of",14,Moldova
+Monaco,13,
+Mongolia,10,Mongolia
+Montenegro,15,Montenegro
+Montserrat,9,
+Morocco,3,Morocco
+Mozambique,4,Mozambique
+Myanmar,29,Myanmar
+Namibia,4,Namibia
+Nauru,29,Nauru
+Nepal,27,Nepal
+Netherlands,13,Netherlands
+Netherlands Antilles,9,
+New Caledonia,29,
+New Zealand,6,New Zealand
+Nicaragua,9,Nicaragua
+Niger,5,Niger
+Nigeria,5,Nigeria
+Niue,29,Niue
+Norfolk Island,29, 
+Northern Mariana Islands,29,
+Norway,16,Norway
+Oman,21,Oman
+Pacific Islands Trust Territory,29,
+Pakistan,22,Pakistan
+Palau,29,Palau
+"Palestinian Territory, Occupied",21,Occupied Palestinian Territory
+Panama,9,Panama
+Papua New Guinea,29,Papua New Guinea
+Paraguay,26,Paraguay
+Peru,26,Peru
+Philippines,29,Philippines
+Pitcairn Islands,29,
+Poland,12,Poland
+Portugal,13,Portugal
+Puerto Rico,1,
+Qatar,21,Qatar
+Reunion,2,
+Romania,12,Romania
+Russian Federation,23,Russian Federation
+Rwanda,2,Rwanda
+Saint Helena,13,
+Saint Kitts and Nevis,9,Saint Kitts and Nevis
+Saint Lucia,9,Saint Lucia
+Saint Pierre and Miquelon,13,
+Saint Vincent and the Grenadines,9,Saint Vincent and the Grenadines
+Samoa,29,Samoa
+San Marino,13,
+Sao Tome and Principe,5,Sao Tome and Principe
+Saudi Arabia,21,Saudi Arabia
+Senegal,5,Senegal
+Serbia,15,Serbia
+Serbia and Montenegro,15,
+Seychelles,29,Seychelles
+Sierra Leone,5,Sierra Leone
+Singapore,29,Singapore
+Slovakia,12,Slovakia
+Slovenia,12,Slovenia
+Solomon Islands,29,Solomon Islands
+Somalia,2,Somalia
+South Africa,24,South Africa
+South Sudan,2,Republic of South Sudan
+Spain,13,Spain
+Sri Lanka,27,Sri Lanka
+Sudan,2,Sudan
+Suriname,25,Suriname
+Svalbard and Jan Mayen Islands,16,
+Swaziland,4,Swaziland
+Sweden,13,Sweden
+Switzerland,16,Switzerland
+Syrian Arab Republic,21,Syria
+Taiwan,30,
+Tajikistan,10,Tajikistan
+"Tanzania, United Republic of",4,Tanzania
+Thailand,29,Thailand
+Timor Leste,29,Timor Leste
+Togo,5,Togo
+Tokelau,29,
+Tonga,29,Tonga
+Trinidad and Tobago,9,Trinidad and Tobago
+Tunisia,3,Tunisia
+Turkey,15,Turkey
+Turkmenistan,10,Turkmenistan
+Turks and Caicos,13,
+Tuvalu,29,Tuvalu
+Uganda,2,Uganda
+Ukraine,14,Ukraine
+United Arab Emirates,21,United Arab Emirates
+United Kingdom,13,United Kingdom
+United States of America,1,United States of America
+Uruguay,26,Uruguay
+Uzbekistan,10,Uzbekistan
+Vanuatu,29,Vanuatu
+Vatican,13,
+Venezuela,25,Venezuela
+Viet Nam,29,Vietnam
+"Virgin Islands, British",13,
+"Virgin Islands, U.S.",1,
+Wallis and Futuna,13,
+Western Sahara,3,
+Yemen,21,Yemen
+"Yugoslavia, Federal Republic of",15,
+Zambia,4,Zambia
+Zimbabwe,4,Zimbabwe
