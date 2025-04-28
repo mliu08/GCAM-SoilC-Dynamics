@@ -1,0 +1,86 @@
+<queries>
+        <aQuery>
+		<region name="USA" />
+       	<region name="Africa_Eastern" />
+       	<region name="Africa_Northern" />
+		<region name="Africa_Southern" />
+		<region name="Africa_Western" />
+       	<region name="Australia_NZ" />
+		<region name="Brazil" />
+       	<region name="Canada" />
+		<region name="Central America and Caribbean" />
+       	<region name="Central Asia" />
+		<region name="China" />
+       	<region name="EU-12" />
+		<region name="EU-15" />
+       	<region name="Europe_Eastern" />
+		<region name="Europe_Non_EU" />
+       	<region name="European Free Trade Association" />
+		<region name="India" />
+       	<region name="Indonesia" />
+		<region name="Japan" />
+       	<region name="Mexico" />
+		<region name="Middle East" />
+       	<region name="Pakistan" />
+		<region name="Russia" />
+       	<region name="South Africa" />
+		<region name="South America_Northern" />
+       	<region name="South America_Southern" />
+		<region name="South Asia" />
+       	<region name="South Korea" />
+		<region name="Southeast Asia" />
+       	<region name="Taiwan" />
+		<region name="Argentina" />
+       	<region name="Colombia" />
+       	<region name="Global"/>
+			<query title="vegetative carbon stock by region">
+                <axis1 name="LandLeaf">LandLeaf</axis1>
+                <axis2 name="Year">above-ground-carbon-stock[@year]</axis2>
+                <xPath buildList="true" dataName="above-ground-carbon-stock" group="false" sumAll="true">/LandNode[@name='root' or @type='LandNode' (:collapse:)]//
+                above-ground-carbon-stock[@year&gt;1970]/text()</xPath>
+                <comments/>
+            </query>
+      </aQuery>
+        <aQuery>
+		<region name="USA" />
+       	<region name="Africa_Eastern" />
+       	<region name="Africa_Northern" />
+		<region name="Africa_Southern" />
+		<region name="Africa_Western" />
+       	<region name="Australia_NZ" />
+		<region name="Brazil" />
+       	<region name="Canada" />
+		<region name="Central America and Caribbean" />
+       	<region name="Central Asia" />
+		<region name="China" />
+       	<region name="EU-12" />
+		<region name="EU-15" />
+       	<region name="Europe_Eastern" />
+		<region name="Europe_Non_EU" />
+       	<region name="European Free Trade Association" />
+		<region name="India" />
+       	<region name="Indonesia" />
+		<region name="Japan" />
+       	<region name="Mexico" />
+		<region name="Middle East" />
+       	<region name="Pakistan" />
+		<region name="Russia" />
+       	<region name="South Africa" />
+		<region name="South America_Northern" />
+       	<region name="South America_Southern" />
+		<region name="South Asia" />
+       	<region name="South Korea" />
+		<region name="Southeast Asia" />
+       	<region name="Taiwan" />
+		<region name="Argentina" />
+       	<region name="Colombia" />
+       	<region name="Global"/>
+			<query title="LUC emissions by region">
+                <axis1 name="LandLeaf">LandLeaf</axis1>
+                <axis2 name="Year">land-use-change-emission[@year]</axis2>
+                <xPath buildList="true" dataName="land-use-change-emission" group="false" sumAll="true">/LandNode[@name='root' or @type='LandNode' (:collapse:)]//
+                land-use-change-emission[@year&gt;1970]/text()</xPath>
+                <comments/>
+            </query>
+      </aQuery>
+</queries>
